@@ -1,0 +1,11 @@
+{
+  "name": "hm-panel-plugin",
+  "private": true,
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "4.14.6"
+  }
+}

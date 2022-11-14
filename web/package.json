@@ -1,0 +1,11 @@
+{
+  "name": "hm-web",
+  "private": true,
+  "engines": {
+    "node": "18.x",
+    "npm": "8.x"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "4.14.6"
+  }
+}
