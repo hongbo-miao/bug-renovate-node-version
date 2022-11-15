@@ -15,8 +15,8 @@ Here is the Renovate pull request: https://github.com/Hongbo-Miao/bug-renovate-n
 
 ### Expected behavior
 
-Renovate should use Node.js 18 which defined at `/web/.nvmrc` for `/web`.
-Renovate should use Node.js 16 which defined at `/grafana/hm-panel-plugin/.nvmrc` for `/grafana/hm-panel-plugin`.
+- Renovate should use Node.js 18 which defined at `/web/.nvmrc` for `/web`.
+- Renovate should use Node.js 16 which defined at `/grafana/hm-panel-plugin/.nvmrc` for `/grafana/hm-panel-plugin`.
 
 ## Ticket
 
